@@ -2,6 +2,5 @@
 
 Desenvolvimento de um sistema de mercado, utilizando Python e a bilioteca Tkinter para criar a interface
 
- ![Interface 1](https://github.com/isiscostabb/Trabalho-Python-1S/blob/main/Imagens/Interface%20(1).png)
- ![Interface 2](https://github.com/isiscostabb/Trabalho-Python-1S/blob/main/Imagens/Interface%20(2).png)
- ![Interface 3](https://github.com/isiscostabb/Trabalho-Python-1S/blob/main/Imagens/Interface%20(3).png)
+ ![Interface](https://github.com/isiscostabb/Trabalho-Python/blob/main/Imagens/telas.png)
+
